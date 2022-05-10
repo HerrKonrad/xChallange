@@ -1,5 +1,8 @@
 # xChallange
 
+![imagem](https://user-images.githubusercontent.com/79986367/167729369-f97aaead-7df7-4c78-a65f-f2456430d344.png)
+
+
   Nossa proposta para a cidade de Viseu começa em um relato cotidiano 
   
     " ... ".
@@ -11,7 +14,7 @@ que não funciona como suposto, ou nem funcionam.
 
   É por isso que nós temos como proposta uma startup na cidade de Viseu cujo objetivo é oferecer 
   a instituição que lidam com atendimento ao público sistemas que facilitem essa tarefa e ao 
-  não frustar os usuários, também reduza custo. 
+  não frustar os usuários, também reduza custos. 
   Nesse sentido a escolha da cidade de Viseu é bem adequada
   ao nosso contexto, pois mesmo sendo uma cidade do interior temos grandes hospitais, escolas, faculdades,
   bancos e orgãos públicos que porém muitas as vezes experiencias como (     ) acabam por ser frustantes, 
@@ -19,7 +22,7 @@ que não funciona como suposto, ou nem funcionam.
   
   O modelo de negócio prosposto é oferecer aos clientes uma solução que possa trabalhar mesmo com seus sistemas legados
   porém trazendo por cima uma interface ao usuário moderna e intuitiva, e para que seja convencido,
-  propomos que em um curto periodo de tmepo fazemos uma solução minimamente funcional, onde esteja bem evidente
+  propomos que em um curto periodo de tempo fazemos uma solução minimamente funcional, onde esteja bem evidente
   a interface e a experiência do usuário para se aceita passa-se a trabalhar com a solução final que também
   envolve uma análise mais próxima do contexto local e do cliente.
     Para a construção das soluções, focaremos no contexto WEB, utilizando frameworks modernos e eficientes
@@ -32,3 +35,4 @@ que não funciona como suposto, ou nem funcionam.
     é possível que essa demanda que queremos cobrir começa a ser mais valorizada e atraia ainda mais
     negócios e soluções nesse sentido para as cidades portuguesas, e especialmente a Viseu por conta
     dos fatos já mencionados.
+    
