@@ -5,7 +5,15 @@
 
   Nossa proposta para a cidade de Viseu começa em um relato cotidiano 
   
-    " ... ".
+    " Instituições que prestam serviços como saúde e educação, por exemplo,
+    são essenciais, mas nem sempre cumprem seus papéis de forma adequada.
+    Além de outros problemas que envolve a manutenção de seus recursos, essas instituições com frequência são alvos
+    de comentários negativos no que se refere ao atendimento ao público. Impossibilidade de marcação a distância, 
+    má comunicação e gestão de informações tornam ainda mais  difícil 
+    o processo de obtenção de um serviço que  em especial quando se trata de saúde pode se tratar de algo urgente.
+    Diante disso, vê-se a necessidade de um meio eficaz e prático de
+    estabelecer um intermédio entre a população e os serviços essenciais de maneira a trazer acessibilidade e comodidade.".
+    
 Essa história também é a história de muitos, e em muitos contextos. Basta olharmos
 para tantos incomodos e horas perdidas que passamos por conta de sistemas de atendimento ao público
 que não funciona como suposto, ou nem funcionam.
