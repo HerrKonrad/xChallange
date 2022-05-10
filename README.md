@@ -17,8 +17,13 @@ que não funciona como suposto, ou nem funcionam.
   não frustar os usuários, também reduza custos. 
   Nesse sentido a escolha da cidade de Viseu é bem adequada
   ao nosso contexto, pois mesmo sendo uma cidade do interior temos grandes hospitais, escolas, faculdades,
-  bancos e orgãos públicos que porém muitas as vezes experiencias como (     ) acabam por ser frustantes, 
+  bancos e orgãos públicos que porém muitas as vezes coisas simples como fazer uma marcação, realizar um pagamento, buscar uma informação acabam por ser frustantes, 
   e limitam o grande potencial de desenvolvimento de todas essas instituições no interior.
+  
+  Voltando ao exemplo do relato, se no site do hospital fosse implementado um sistema de marcação, intuitivo e fácil de usar,
+  onde indicando seus sintomas e verificando o centro de saúde mais próximo com base na localização fosse possível
+  automaticamente marcada uma consulta ao hospital e espececialização mais adequada, dando prioridade a problemas
+  mais graves, isso melhoria muito não só a experiencia dos utentes, mas ajudaria o hospital a minimizar custos.
   
   O modelo de negócio prosposto é oferecer aos clientes uma solução que possa trabalhar mesmo com seus sistemas legados
   porém trazendo por cima uma interface ao usuário moderna e intuitiva, e para que seja convencido,
