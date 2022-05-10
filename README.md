@@ -23,6 +23,7 @@ que não funciona como suposto, ou nem funcionam.
   É por isso que nós temos como proposta uma startup na cidade de Viseu cujo objetivo é oferecer 
   a instituição que lidam com atendimento ao público sistemas que facilitem essa tarefa e ao 
   não frustar os usuários, também reduza custos. 
+  
   Nesse sentido a escolha da cidade de Viseu é bem adequada
   ao nosso contexto, pois mesmo sendo uma cidade do interior temos grandes hospitais, escolas, faculdades,
   bancos e orgãos públicos que porém muitas as vezes coisas simples como fazer uma marcação, realizar um pagamento, buscar uma informação acabam por ser frustantes, 
