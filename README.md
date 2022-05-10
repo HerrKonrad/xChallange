@@ -41,6 +41,10 @@ que não funciona como suposto, ou nem funcionam.
     Para a construção das soluções, focaremos no contexto WEB, utilizando frameworks modernos e eficientes
     que facilitam o desenvolvimento, porém é possível num futuro expandir para soluções mobile.
     
+![imagem](https://user-images.githubusercontent.com/79986367/167733105-ce1fdf38-a72c-4528-9253-cacfee5844a2.png)
+
+
+    
     
   Nós acreditamos que se bem sucedido, ao trabalharmos com essas soluções locais, além das pessoas
     qualificadas que são atraidas a cidade por esse empreendimento, a colaboração para a cidade que possa ter 
